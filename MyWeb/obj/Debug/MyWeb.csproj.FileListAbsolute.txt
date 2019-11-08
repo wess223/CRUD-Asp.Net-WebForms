@@ -1,0 +1,112 @@
+C:\Temp\projetos\MyWeb\MyWeb\bin\MyWeb.dll.config
+C:\Temp\projetos\MyWeb\MyWeb\bin\MyWeb.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\MyWeb.pdb
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\csc.exe
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\csc.exe.config
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\csc.rsp
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\csi.exe
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\csi.exe.config
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\csi.rsp
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.AppContext.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Console.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.IO.Compression.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Security.Claims.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.ValueTuple.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\vbc.exe
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\vbc.exe.config
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\vbc.rsp
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\VBCSCompiler.exe
+C:\Temp\projetos\MyWeb\MyWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Temp\projetos\MyWeb\MyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Temp\projetos\MyWeb\MyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Temp\projetos\MyWeb\MyWeb\obj\Debug\MyWeb.csproj.CoreCompileInputs.cache
+C:\Temp\projetos\MyWeb\MyWeb\obj\Debug\MyWeb.csproj.CopyComplete
+C:\Temp\projetos\MyWeb\MyWeb\obj\Debug\MyWeb.dll
+C:\Temp\projetos\MyWeb\MyWeb\obj\Debug\MyWeb.pdb
+C:\Temp\projetos\MyWeb\MyWeb\obj\Debug\MyWeb.csprojAssemblyReference.cache
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\MyWeb.dll.config
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\MyWeb.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\MyWeb.pdb
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\csc.exe
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\csc.exe.config
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\csc.rsp
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\csi.exe
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\csi.exe.config
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\csi.rsp
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Console.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\vbc.exe
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\vbc.exe.config
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\vbc.rsp
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\obj\Debug\MyWeb.csprojAssemblyReference.cache
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\obj\Debug\MyWeb.csproj.CoreCompileInputs.cache
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\obj\Debug\MyWeb.csproj.CopyComplete
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\obj\Debug\MyWeb.dll
+C:\Users\Wesley Alves\Desktop\pendrive\c#\MyWeb\MyWeb\obj\Debug\MyWeb.pdb
