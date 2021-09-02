@@ -1,5 +1,5 @@
 # CRUD-Asp.Net-WebForms
-Crud básico em webforms, com utilização do mysqlserver express.
+Crud básico em webforms com utilização do mysqlserver express.
 Visual studio community 2017.
 Mysqlexpress 2017.
 Tabela: CLIENTES.
